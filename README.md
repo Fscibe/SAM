@@ -1,6 +1,8 @@
 # SAM
 Tiny sound ambiance tool for Unity.
 
+![sam](https://cloud.githubusercontent.com/assets/825388/17808329/fb977422-660f-11e6-852c-fed81f2b93e4.png)
+
 ## How to use
 
 * Put SAM files in your project Asset folder.
